@@ -28,3 +28,9 @@
       max-width: 400px;
       margin: 50px auto;
     }
+
+    .suggestions {
+      margin: 0;
+      padding: 0;
+      position: relative;
+    }
