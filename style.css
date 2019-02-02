@@ -11,10 +11,12 @@
     }
 
     input {
-      width: 100%;
+      width: 120%;
       padding:20px;
+      position: relative;
+      left: -10%;
     }
-    
+
     .search-form {
       max-width:400px;
       margin:50px auto;
