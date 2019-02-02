@@ -34,3 +34,13 @@
       padding: 0;
       position: relative;
     }
+
+    .suggestions li {
+      background:white;
+      list-style: none;
+      border-bottom: 1px solid #D8D8D8;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.14);
+      margin:0;
+      padding:20px;
+      text-transform: capitalize;
+    }
