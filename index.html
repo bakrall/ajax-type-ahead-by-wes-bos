@@ -26,7 +26,8 @@
 	  	//when we call then() on it we will finally get data in form of array of cities
 	  	fetch(endpoint)
 	  		.then(blob => blob.json())
-	  		.then(data => console.log(data))
+	  		.then(data => cities.push(...data))
+
 	  </script>
   </body>
 </html>
