@@ -44,6 +44,8 @@
       margin:0;
       padding:20px;
       text-transform: capitalize;
+      display: flex;
+      justify-content: space-between;
     }
 
     .suggestions li:nth-child(even) {
